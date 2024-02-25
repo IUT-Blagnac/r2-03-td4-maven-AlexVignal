@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7151143&assignment_repo_type=AssignmentRepo)
 pour compiler : mvn compile
 pour ouvrir la java doc : mvn javadoc:javadoc
 pour accéder à la javadoc : installer l'extension live server puis retourner dans "Explorer", cliquer sur site puis clic droit sur index.html et "Open with Live Server"
